@@ -262,3 +262,7 @@ paket-files/
 __pycache__/
 *.pyc
 /.vscode/settings.json
+/.qmake.stash
+/Makefile
+/Makefile.Debug
+/Makefile.Release
